@@ -20,11 +20,11 @@ body {
 #controls {
     display: flex;
     flex-wrap: wrap;
-    width: 20vw;
+    width: 30vw;
 }
 
 button {
-    flex: 1 0 30%;
+    flex: 1 0 20%;
     padding: 1em;
     max-height: 64px;
     margin: 4px;
